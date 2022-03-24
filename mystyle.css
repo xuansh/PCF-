@@ -1,3 +1,4 @@
+
 body {
     margin: 0;
 }
@@ -28,4 +29,29 @@ li a.active {
 li a:hover:not(.active) {
     background-color: #555;
     color: white;
+}
+
+#PCF-001 {
+position: absolute;
+left: 200px;
+top: 200px;
+}
+
+#PCF-002 {
+position: absolute;
+
+left: 200px;
+top: 200px;
+}
+
+#PCF-003{
+position: absolute;
+left: 200px;
+top: 200px;
+}
+
+#PCF-004{
+position: absolute;
+left: 200px;
+top: 200px;
 }
