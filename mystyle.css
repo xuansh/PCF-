@@ -38,6 +38,13 @@ a.PCF{
 	margin: 500px 200px;
 }
 
+#button1{
+	margin-top: 0rem;
+	margin-left: 62.5rem;
+	width: 20px;
+	height: 10px;
+}
+
 preload-01 { background: url(https://s1.328888.xyz/2022/03/24/9jYdA.jpg) no-repeat -9999px -9999px; }
 preload-02 { background: url(https://s1.328888.xyz/2022/03/24/9jkCF.png) no-repeat -9999px -9999px; }
 
