@@ -1,9 +1,9 @@
 body {
     margin: 0;
 }
-img{
+#picture_size{
 	max-width: 40%;
-	size: 10px
+	size: 1.25rem;
 }
 ul {
     list-style-type: none;
