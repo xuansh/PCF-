@@ -1,6 +1,6 @@
 body {
     margin: 0;
-	
+    background-color: #BACDD8;	
 }
 #picture_size{
 	max-width: 40%;
@@ -48,10 +48,8 @@ a.PCF{
 
 #page_center{
 	margin: 2px 10px;
-	position: fixed;
-	background-color: #BACDD8;
+	
+	
 }
 
-preload-01 { background: url(https://s1.328888.xyz/2022/03/24/9jYdA.jpg) no-repeat -9999px -9999px; }
-preload-02 { background: url(https://s1.328888.xyz/2022/03/24/9jkCF.png) no-repeat -9999px -9999px; }
 
