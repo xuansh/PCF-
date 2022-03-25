@@ -2,10 +2,7 @@ body {
     margin: 0;
     	
 }
-#picture_size{
-	max-width: 40%;
-	size: 1.25rem;
-}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -24,10 +21,7 @@ li a {
     text-decoration: none;
 }
 
-li a.active {
-    background-color: #4CAF50;
-    color: white;
-}
+
 
 li a:hover:not(.active) {
     background-color: #555;
